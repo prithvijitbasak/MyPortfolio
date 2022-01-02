@@ -1,5 +1,5 @@
 # Resume
-- 
+- [Click Here](https://github.com/prithvijitbasak/projects-and-portfolio/blob/main/Prithvijit_Basak.pdf)
 # Projects
 ## Web Development
 - [E-Commerce Website](https://github.com/prithvijitbasak/E-Commerce-Website)
