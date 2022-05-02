@@ -1,7 +1,7 @@
 # Resume
 - [Click Here](https://github.com/prithvijitbasak/projects-and-portfolio/blob/main/Prithvijit_Basak.pdf)
 # Experience
-- [LovenHeal]()
+- [LovenHeal](https://github.com/prithvijitbasak/MyPortfolio/blob/main/Internship%20Certificate%20Prithvijit.pdf)
 # Projects
 ## Web Development
 ### Using only HTML, CSS and JavaScript
