@@ -13,3 +13,5 @@
 ### ReactJS Applications
 - [Birthday Reminder Application](https://github.com/prithvijitbasak/birthday-.reminder)
 - [React Calculator](https://github.com/prithvijitbasak/react-calculator)
+### Python Applications
+- [A Star Pathfinding Algorithm Visualiser](https://github.com/prithvijitbasak/Astar_pathfinding)
