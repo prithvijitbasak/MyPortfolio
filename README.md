@@ -12,7 +12,8 @@
 - [Real Time Clock](https://github.com/prithvijitbasak/real-time-clock)
 - [Language Translator](https://github.com/prithvijitbasak/language-translator)
 ### ReactJS Applications
-- [Birthday Reminder Application](https://github.com/prithvijitbasak/birthday-.reminder)
+- [React Weather App](https://github.com/prithvijitbasak/react-weather-app)
 - [React Calculator](https://github.com/prithvijitbasak/react-calculator)
+- [Birthday Reminder Application](https://github.com/prithvijitbasak/birthday-.reminder)
 ### Python Applications
 - [A Star Pathfinding Algorithm Visualiser](https://github.com/prithvijitbasak/Astar_pathfinding)
