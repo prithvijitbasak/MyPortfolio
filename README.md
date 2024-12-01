@@ -1,5 +1,5 @@
 # Resume
-- [Click Here](https://github.com/prithvijitbasak/projects-and-portfolio/blob/main/Prithvijit_Basak.pdf)
+- [Click Here](https://drive.google.com/file/d/1beOQG39cbhtnDYhvUscMBNnNVPPQazxk/view?usp=drive_link)
 # Experience
 - [LovenHeal](https://github.com/prithvijitbasak/MyPortfolio/blob/main/Internship%20Certificate%20Prithvijit.pdf)
 # Projects
