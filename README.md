@@ -8,7 +8,6 @@
 - [iB Arts Pvt. Ltd.](https://www.ibarts.co/)
 
 # Projects
-## Web Development
 
 ### ReactJS Applications
 - [ERN User Table](https://github.com/prithvijitbasak/ern-user-table)
