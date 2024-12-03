@@ -14,7 +14,7 @@
 - [React User Table](https://github.com/prithvijitbasak/react-user-table)
 - [React Weather App](https://github.com/prithvijitbasak/react-weather-app)
 - [React Calculator](https://github.com/prithvijitbasak/react-calculator)
-- [Birthday Reminder Application](https://github.com/prithvijitbasak/birthday-.reminder)
+
   
 ### Using only HTML, CSS and JavaScript
 - [E-Commerce Website](https://github.com/prithvijitbasak/E-Commerce-Website)
